@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Ömer Aydın
+- 👀 I graduated from the Department of Electrical and Electronics Engineering at Marmara University.
+- 🌱 I am a python and C++ developer candidate.
